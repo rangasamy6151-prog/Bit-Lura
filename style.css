@@ -477,7 +477,7 @@ nav{
     height: fit-content;
 }
 .center-2{
-    width: 100%;
+    width: 80%;
     height: fit-content;
     display: flex;
     flex-direction: column;
@@ -489,7 +489,7 @@ nav{
     font-size: 25px;
 }
 .center-2 p{
-    font-size: 18px;
+    font-size: 14px;
 }
 .center-2 img{
     width: 130px;
