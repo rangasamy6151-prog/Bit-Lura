@@ -95,8 +95,6 @@ nav{
     width: 75%;
     display: flex;
     gap: 40px;
-    position: absolute;
-    top: 430px;
     margin-left: 40px;
 }
 .btn{
@@ -417,7 +415,7 @@ nav{
 
 .overall{
     width: 100%;
-    height: 5800px;
+    height: 5900px;
     position: relative;
 }
 .logo-container h2{
@@ -426,7 +424,7 @@ nav{
 .center{
     flex-direction: column;
     width: 100%;
-    gap: 120px;
+    gap: 30px;
     margin-bottom: 20px;
 }
 .left{
@@ -450,7 +448,6 @@ nav{
     align-items: center;
     justify-content: start;
     gap: 10px;
-    top: 330px;
     margin: 0%;
 }
 .btn{
@@ -461,6 +458,7 @@ nav{
 .btn-5{
     width: 120px;
     height: 35px;
+    margin-left: 40px;
 }
 .btn-12{
     width: 170px;
@@ -699,6 +697,9 @@ nav{
         cursor: pointer;
         margin-right: 20px;
 }
+nav{
+    justify-content: space-around;
+}
 .btn-1{
     display: none;
 }
@@ -717,7 +718,7 @@ nav{
 .center{
     flex-direction: column;
     width: 100%;
-    gap: 100px;
+    gap: 40px;
     margin-bottom: 20px;
 }
 .left{
@@ -752,7 +753,7 @@ nav{
     text-align: center;
 }
 .home-img{
-    width: 90%;
+    width: 70%;
 }
 .grey{
     width: 100%;
